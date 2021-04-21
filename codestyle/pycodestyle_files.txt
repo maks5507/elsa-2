@@ -1,0 +1,9 @@
+../elsa/abstractive/*.py
+../elsa/abstractive/tokenizers/*.py
+../elsa/abstractive/abstractive_model/*.py
+../elsa/abstractive/extractive_attention_mask/*.py
+../elsa/preprocessing/*.py
+../elsa/extractive/*.py
+../elsa/extractive/centroid/*.py
+../elsa/extractive/textrank/*.py
+../elsa/extractive/transformersum/*.py
